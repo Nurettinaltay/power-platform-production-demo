@@ -1,6 +1,13 @@
 
 
 ````md
+## Live Demo
+
+The Power Apps application is hosted in a Microsoft Power Platform environment.
+
+Because Power Apps requires authenticated access and permissions to the underlying data sources, the live application is not publicly accessible.
+
+Demo access can be provided on request.
 # Power Platform Production Demo
 
 An integrated Microsoft Power Platform demo combining **Power Apps, Power Automate and Power BI** in a production management scenario.
